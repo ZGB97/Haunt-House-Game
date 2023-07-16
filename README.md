@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Simple Haunted House game developed in C programing Language.
+Simple Haunted House game that was developed in C programing Language.
 <br />
 
 
